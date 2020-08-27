@@ -40,10 +40,44 @@ public class Main {
         System.out.println(sum);
     }
 
+    static void ifDemo() {
+        System.out.print("Enter an integer: ");
+        Scanner input = new Scanner(System.in);
+        int number = input.nextInt();
+
+        if (number % 5 == 0) {
+            System.out.println("HiFive");
+        } else if (number % 2 == 0) {
+            System.out.println("HiEven");
+        } else {
+            System.out.println("Number is not divisible by 2 or 5");
+        }
+    }
+
+    static void fizzWannaBe() {
+        System.out.print("Enter a number: ");
+        Scanner input = new Scanner(System.in);
+        int number = input.nextInt();
+
+        if (number % 2 == 0 && number % 3 == 0) {
+            System.out.println("Number is divisible by 6");
+        }
+        if (number % 2 == 0 || number % 3 == 0) {
+            System.out.println("Number is divisible by 2 OR 3");
+        }
+        if (number % 2 == 0 ^ number % 3 == 0) {
+            System.out.println(("Number is divisible by 2 or 3 , but not both"));
+        }
+    }
+
+
+
     public static void main(String[] args) {
 //      TempConverter();
 //      Casting();
-        CastingAug();
+//      CastingAug();
+//      ifDemo();
+        fizzWannaBe();
     }
 
 

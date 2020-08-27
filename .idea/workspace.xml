@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -66,34 +66,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598469745012</updated>
-      <workItem from="1598469746410" duration="6522000" />
+      <workItem from="1598469746410" duration="15513000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1812" height="404" key="GridCell.Tab.0.bottom" timestamp="1598485342019">
-      <screen x="0" y="2160" width="3840" height="2160" />
+    <state width="2082" height="403" key="GridCell.Tab.0.bottom" timestamp="1598559736664">
+      <screen x="2016" y="0" width="3840" height="2160" />
     </state>
     <state width="1812" height="404" key="GridCell.Tab.0.bottom/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
-    <state width="1812" height="404" key="GridCell.Tab.0.center" timestamp="1598485342019">
-      <screen x="0" y="2160" width="3840" height="2160" />
+    <state width="2082" height="403" key="GridCell.Tab.0.bottom/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@2016.0.3840.2160" timestamp="1598559736664" />
+    <state width="2082" height="403" key="GridCell.Tab.0.center" timestamp="1598559736664">
+      <screen x="2016" y="0" width="3840" height="2160" />
     </state>
     <state width="1812" height="404" key="GridCell.Tab.0.center/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
-    <state width="1812" height="404" key="GridCell.Tab.0.left" timestamp="1598485342019">
-      <screen x="0" y="2160" width="3840" height="2160" />
+    <state width="2082" height="403" key="GridCell.Tab.0.center/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@2016.0.3840.2160" timestamp="1598559736664" />
+    <state width="2082" height="403" key="GridCell.Tab.0.left" timestamp="1598559736664">
+      <screen x="2016" y="0" width="3840" height="2160" />
     </state>
     <state width="1812" height="404" key="GridCell.Tab.0.left/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
-    <state width="1812" height="404" key="GridCell.Tab.0.right" timestamp="1598485342019">
-      <screen x="0" y="2160" width="3840" height="2160" />
+    <state width="2082" height="403" key="GridCell.Tab.0.left/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@2016.0.3840.2160" timestamp="1598559736664" />
+    <state width="2082" height="403" key="GridCell.Tab.0.right" timestamp="1598559736664">
+      <screen x="2016" y="0" width="3840" height="2160" />
     </state>
     <state width="1812" height="404" key="GridCell.Tab.0.right/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
-    <state x="2096" y="2696" width="1537" height="1091" key="SettingsEditor" timestamp="1598483203524">
-      <screen x="0" y="2160" width="3840" height="2160" />
+    <state width="2082" height="403" key="GridCell.Tab.0.right/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@2016.0.3840.2160" timestamp="1598559736664" />
+    <state x="3999" y="1069" width="1537" height="1091" key="SettingsEditor" timestamp="1598547970865">
+      <screen x="2016" y="0" width="3840" height="2160" />
     </state>
     <state x="2096" y="2696" width="1537" height="1091" key="SettingsEditor/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598483203524" />
+    <state x="3999" y="1069" key="SettingsEditor/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@2016.0.3840.2160" timestamp="1598547970865" />
     <state x="2342" y="2759" width="1036" height="964" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598481660771">
       <screen x="0" y="2160" width="3840" height="2160" />
     </state>
     <state x="2342" y="2759" width="1036" height="964" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598481660771" />
+    <state x="4413" y="688" key="search.everywhere.popup" timestamp="1598560370914">
+      <screen x="2016" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4413" y="688" key="search.everywhere.popup/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@2016.0.3840.2160" timestamp="1598560370914" />
   </component>
 </project>
