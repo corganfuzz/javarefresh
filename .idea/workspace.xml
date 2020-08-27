@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2c84c3c-e916-4ca8-90c7-d0fa05faf275" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1geKiT7aSYrOIlk9A1dzQCsc68y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ComputeArea" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c84c3c-e916-4ca8-90c7-d0fa05faf275" name="Default Changelist" comment="" />
+      <created>1598469745012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598469745012</updated>
+      <workItem from="1598469746410" duration="6522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1812" height="404" key="GridCell.Tab.0.bottom" timestamp="1598485342019">
+      <screen x="0" y="2160" width="3840" height="2160" />
+    </state>
+    <state width="1812" height="404" key="GridCell.Tab.0.bottom/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
+    <state width="1812" height="404" key="GridCell.Tab.0.center" timestamp="1598485342019">
+      <screen x="0" y="2160" width="3840" height="2160" />
+    </state>
+    <state width="1812" height="404" key="GridCell.Tab.0.center/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
+    <state width="1812" height="404" key="GridCell.Tab.0.left" timestamp="1598485342019">
+      <screen x="0" y="2160" width="3840" height="2160" />
+    </state>
+    <state width="1812" height="404" key="GridCell.Tab.0.left/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
+    <state width="1812" height="404" key="GridCell.Tab.0.right" timestamp="1598485342019">
+      <screen x="0" y="2160" width="3840" height="2160" />
+    </state>
+    <state width="1812" height="404" key="GridCell.Tab.0.right/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598485342019" />
+    <state x="2096" y="2696" width="1537" height="1091" key="SettingsEditor" timestamp="1598483203524">
+      <screen x="0" y="2160" width="3840" height="2160" />
+    </state>
+    <state x="2096" y="2696" width="1537" height="1091" key="SettingsEditor/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598483203524" />
+    <state x="2342" y="2759" width="1036" height="964" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598481660771">
+      <screen x="0" y="2160" width="3840" height="2160" />
+    </state>
+    <state x="2342" y="2759" width="1036" height="964" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.2160.3840.2160/3840.2160.3840.2160/2016.0.3840.2160@0.2160.3840.2160" timestamp="1598481660771" />
+  </component>
+</project>
